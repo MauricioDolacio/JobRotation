@@ -1,4 +1,4 @@
-#programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
+#programa onde, informado um número, ele calcula a sequência de Fibonacci e retorna uma mensagem avisando se o número informado pertence ou não a sequência.
 ant = 0
 pos = 1
 result = 0
