@@ -1,0 +1,11 @@
+1) soma = 91
+
+3)
+a) 9 (2 em 2)
+b) 128 (Multiplica por 2)
+c) 49 (Soma em numeros impares)
+d) 100 (Adiciona +8 na soma anterior e soma o numero)
+e) 13 (Fibonacci)
+f) 200 (Numeros iniciam com letra D)
+
+4) - Caminhão, pois independente da distancia, velocidade ou paradas, ao se cruzarem, o caminhão estará mais perto de Ribeirão Preto do que o carro.
